@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #240003;
+  background: -webkit-gradient(linear, left top, right top, from(#240003), color-stop(21%, #981314), color-stop(48%, #da1e1e), color-stop(74%, #8b1b1b), to(#240003));
+  background: linear-gradient(90deg, #240003 0%, #981314 21%, #da1e1e 48%, #8b1b1b 74%, #240003 100%);
+}
+/*# sourceMappingURL=style.css.map */
